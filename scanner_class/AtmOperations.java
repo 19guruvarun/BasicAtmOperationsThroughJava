@@ -5,7 +5,7 @@ class AtmOperations
 	{
 		double bal=1000;
 		int pin=1234,dep,withdraw;
-		long phNo=1234567892;
+		long phNo=1234567893;
 		long phno;
 		int pinNum;
 		Scanner sc=new Scanner(System.in);
