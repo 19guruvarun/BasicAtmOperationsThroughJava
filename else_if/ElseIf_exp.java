@@ -10,6 +10,6 @@ class ElseIf_exp
 		else if(c>b && c>a && c>d)
 			System.out.println(c+" is largest");//else if(c>d)
 		else
-			System.out.println(d+" is largest");
+			System.out.println(d+" is large");
 	}
 }
